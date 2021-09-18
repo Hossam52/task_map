@@ -1,16 +1,9 @@
-# map_task
+# Task Map
 
-A new Flutter project.
+Flutter application that use map sdk and display it in ui
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/49253127/133910614-5dd65a4a-fb45-4f5a-928f-17e9ea54cd7a.png)
+![image](https://user-images.githubusercontent.com/49253127/133910619-c8fe21d4-7b4c-48dd-8cb1-ed1524da2f2c.png)
+![image](https://user-images.githubusercontent.com/49253127/133910625-bd5754ae-41aa-44ea-a0ce-811473e5020b.png)
