@@ -180,6 +180,13 @@ class _MapScreenState extends State<MapScreen> {
         target: _center,
         zoom: 8.0,
       ),
+      polylines: {
+        Polyline(
+          polylineId: PolylineId('1'),
+          points: <LatLng>[_myLocation.position, _destinationLocation.position],
+          width: 4,
+        )
+      },
       onTap: _onMapTapped,
       mapToolbarEnabled: false,
       zoomControlsEnabled: false,
